@@ -66,6 +66,24 @@ namespace OOP.MyClasses // Note: actual namespace depends on the project name.
             }
             return Items[index];
         }
+        public int SumArray(int[] Item)
+        {
+            int result = 0;
+            for (int i = 0; i < Item.Length; i++)
+            {
+                result += Item[i];
+            }
+            return result;
+        }
+        public int DiffArray(int[] Item)
+        {
+            int result = 0;
+            for (int i = 0; i < Item.Length; i++)
+            {
+                result -= Item[i];
+            }
+            return result;
+        }
 
         public override string ToString()
         {

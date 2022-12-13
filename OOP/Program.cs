@@ -19,10 +19,11 @@ namespace MyApp // Note: actual namespace depends on the project name.
             arrayObj.Print();
             System.Console.WriteLine(arrayObj.Length);
             System.Console.WriteLine(arrayObj.GetItem(random.Next(-5, arrayObj.Length)));
-            System.Console.WriteLine(arrayObj);
+            System.Console.WriteLine(arrayObj); 
             System.Console.WriteLine(arrayObj.ToString());
             CustomArray.Information();
             // дописать метод сумма и метод разность массивов
+            System.Console.WriteLine(arrayObj.SumArray(arrayObj));
         }
     }
 }

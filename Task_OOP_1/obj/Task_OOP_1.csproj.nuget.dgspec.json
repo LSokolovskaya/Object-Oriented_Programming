@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP/OOP.csproj": {}
+    "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_1/Task_OOP_1.csproj": {}
   },
   "projects": {
-    "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP/OOP.csproj": {
+    "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_1/Task_OOP_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP/OOP.csproj",
-        "projectName": "OOP",
-        "projectPath": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP/OOP.csproj",
+        "projectUniqueName": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_1/Task_OOP_1.csproj",
+        "projectName": "Task_OOP_1",
+        "projectPath": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_1/Task_OOP_1.csproj",
         "packagesPath": "/Users/liubasokolovskaya/.nuget/packages/",
-        "outputPath": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP/obj/",
+        "outputPath": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/liubasokolovskaya/.nuget/NuGet/NuGet.Config"
