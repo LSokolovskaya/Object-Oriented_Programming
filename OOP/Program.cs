@@ -23,7 +23,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
             System.Console.WriteLine(arrayObj.ToString());
             CustomArray.Information();
             // дописать метод сумма и метод разность массивов
-            System.Console.WriteLine(arrayObj.SumArray(arrayObj));
+            System.Console.WriteLine($"сумма массивов: {arrayObj.SumArray()}");
+            System.Console.WriteLine($"разность: {arrayObj.DiffArray()}");
         }
     }
 }

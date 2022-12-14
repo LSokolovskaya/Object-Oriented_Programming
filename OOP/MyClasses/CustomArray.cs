@@ -66,21 +66,21 @@ namespace OOP.MyClasses // Note: actual namespace depends on the project name.
             }
             return Items[index];
         }
-        public int SumArray(int[] Item)
+        public int SumArray()
         {
             int result = 0;
-            for (int i = 0; i < Item.Length; i++)
+            for (int i = 0; i < Items.Length; i++)
             {
-                result += Item[i];
+                result += Items[i];
             }
             return result;
         }
-        public int DiffArray(int[] Item)
+        public int DiffArray()
         {
             int result = 0;
-            for (int i = 0; i < Item.Length; i++)
+            for (int i = 0; i < Items.Length; i++)
             {
-                result -= Item[i];
+                result -= Items[i];
             }
             return result;
         }
