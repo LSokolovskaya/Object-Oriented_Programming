@@ -94,4 +94,15 @@ namespace OOP.MyClasses // Note: actual namespace depends on the project name.
             System.Console.WriteLine("MyClasses includes Array");
         }
     }
+    public class CustomCalculator
+    {
+        public int SumNumbers(int x, int y)
+        {
+            return x + y;
+        }
+        public double SumNumbers(double x, double y)
+        {
+            return x + y;
+        }
+    }
 }

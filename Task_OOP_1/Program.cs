@@ -1,7 +1,4 @@
-﻿
-
-using Task_OOP_1.MyClasses;
-
+﻿using Task_OOP_1.MyClasses;
 namespace MyApp // Note: actual namespace depends on the project name.
 {
     // 1.Реализуйте класс Singer, который будет иметь следующие свойства: name, surname.
@@ -12,10 +9,12 @@ namespace MyApp // Note: actual namespace depends on the project name.
         static void Main(string[] args)
         {
             Singer name = new Singer();
-            name.Print();
+            name.GetАutograph("Liuba", "Sokolovskaya");
         }
     }
 }
+    
+    
 
 
 
