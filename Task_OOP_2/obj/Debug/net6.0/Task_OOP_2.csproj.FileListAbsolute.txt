@@ -1,0 +1,15 @@
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/bin/Debug/net6.0/Task_OOP_2
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/bin/Debug/net6.0/Task_OOP_2.deps.json
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/bin/Debug/net6.0/Task_OOP_2.runtimeconfig.json
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/bin/Debug/net6.0/Task_OOP_2.dll
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/bin/Debug/net6.0/Task_OOP_2.pdb
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/obj/Debug/net6.0/Task_OOP_2.csproj.AssemblyReference.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/obj/Debug/net6.0/Task_OOP_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/obj/Debug/net6.0/Task_OOP_2.AssemblyInfoInputs.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/obj/Debug/net6.0/Task_OOP_2.AssemblyInfo.cs
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/obj/Debug/net6.0/Task_OOP_2.csproj.CoreCompileInputs.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/obj/Debug/net6.0/Task_OOP_2.dll
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/obj/Debug/net6.0/refint/Task_OOP_2.dll
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/obj/Debug/net6.0/Task_OOP_2.pdb
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/obj/Debug/net6.0/Task_OOP_2.genruntimeconfig.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Task_OOP_2/obj/Debug/net6.0/ref/Task_OOP_2.dll
