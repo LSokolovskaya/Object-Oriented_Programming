@@ -1,0 +1,15 @@
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/bin/Debug/net6.0/ApplicationTransaction
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/bin/Debug/net6.0/ApplicationTransaction.deps.json
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/bin/Debug/net6.0/ApplicationTransaction.runtimeconfig.json
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/bin/Debug/net6.0/ApplicationTransaction.dll
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/bin/Debug/net6.0/ApplicationTransaction.pdb
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/obj/Debug/net6.0/ApplicationTransaction.csproj.AssemblyReference.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/obj/Debug/net6.0/ApplicationTransaction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/obj/Debug/net6.0/ApplicationTransaction.AssemblyInfoInputs.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/obj/Debug/net6.0/ApplicationTransaction.AssemblyInfo.cs
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/obj/Debug/net6.0/ApplicationTransaction.csproj.CoreCompileInputs.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/obj/Debug/net6.0/ApplicationTransaction.dll
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/obj/Debug/net6.0/refint/ApplicationTransaction.dll
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/obj/Debug/net6.0/ApplicationTransaction.pdb
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/obj/Debug/net6.0/ApplicationTransaction.genruntimeconfig.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/ApplicationTransaction/obj/Debug/net6.0/ref/ApplicationTransaction.dll
