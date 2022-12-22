@@ -18,7 +18,7 @@ public class ApplicationTransaction
     }
     public void SignIn()
     {
-        Authorization authorization = new Authorization();
+        Account authorization = new Account();
           if (authorization.Login(Users, out User? user))
         {
             WorkflowTransaction workflowTransactions = new WorkflowTransaction();

@@ -2,7 +2,7 @@ using AppTransaction.SharedModels;
 
 namespace AppTransaction.Service;
 
-public class Authorization
+public class Account
 {
     public bool Login(User[] users, out User user)
     {
