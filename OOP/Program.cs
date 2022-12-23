@@ -1,6 +1,4 @@
-﻿
-
-using OOP.MyClasses;
+﻿using OOP.MyClasses;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
