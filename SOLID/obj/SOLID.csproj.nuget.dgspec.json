@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Economic_of_the_organization/Calculation/Calculation.csproj": {}
+    "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/SOLID/SOLID.csproj": {}
   },
   "projects": {
-    "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Economic_of_the_organization/Calculation/Calculation.csproj": {
+    "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/SOLID/SOLID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Economic_of_the_organization/Calculation/Calculation.csproj",
-        "projectName": "Calculation",
-        "projectPath": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Economic_of_the_organization/Calculation/Calculation.csproj",
+        "projectUniqueName": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/SOLID/SOLID.csproj",
+        "projectName": "SOLID",
+        "projectPath": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/SOLID/SOLID.csproj",
         "packagesPath": "/Users/liubasokolovskaya/.nuget/packages/",
-        "outputPath": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/Economic_of_the_organization/Calculation/obj/",
+        "outputPath": "/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/SOLID/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/liubasokolovskaya/.nuget/NuGet/NuGet.Config"
