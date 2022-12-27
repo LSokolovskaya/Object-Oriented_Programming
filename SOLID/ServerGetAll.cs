@@ -12,7 +12,7 @@
 // Id : 4, Name : "German", Age : 18, 
 // Id : 5, Name : "Maria", Age : 27
 
-namespace ServerGetAll
+namespace UserOBD
 {
 
     public class ServerGetAll

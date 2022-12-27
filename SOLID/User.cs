@@ -1,10 +1,9 @@
-namespace ServerGetAll
-{
-
-    public class User
-    {
-        User Name = new User;
-        User Age = new User;
-        User Id = new User;
-    }
+namespace UserOBD; 
+ 
+public class User
+{ 
+    public int Id { get; set; } 
+    public string Name { get; set; } 
+    public int Age { get; set; } 
+ 
 }

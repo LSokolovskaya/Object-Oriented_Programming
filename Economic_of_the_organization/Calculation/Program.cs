@@ -8,7 +8,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
             Economic economic = new Economic();
 
-            economic.Dk = 365; //количество календарных дней в году
+            economic.Dk = 108; //количество календарных дней в году
             economic.Dvih = 110; //выходные и праздничные
             economic.Tcm = 8; //продолжительность смены
             economic.Dsokr = 3; //сокращенные дни
