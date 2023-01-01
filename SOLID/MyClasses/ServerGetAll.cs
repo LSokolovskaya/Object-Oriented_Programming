@@ -40,7 +40,7 @@ public class ServerGetAll
     private User[] Service()
     {
         User[] user = Repository();
-        if(user==null)
+        if (user == null)
         {
             System.Console.WriteLine("ERROR");
         }
@@ -51,5 +51,5 @@ public class ServerGetAll
     {
         return User;
     }
-    
+
 }
