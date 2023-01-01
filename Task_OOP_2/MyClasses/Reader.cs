@@ -34,6 +34,7 @@ public class Reader
     // - TakeBook, который будет принимать количество взятых
     // книг. 
     // Выводит на консоль сообщение "XXX взял Y книги".
+    
     public void TakeBook(int countbook)
     {
         System.Console.WriteLine($"{Name} give {countbook} books");
