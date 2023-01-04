@@ -14,22 +14,24 @@
 // Id : 2, Name : “Hanna", Age : 22,
 // Id : 3, Name : "Stanislau", Age : 25,
 // Id : 4, Name : "German", Age : 18
+
+
 using UserOBD;
 namespace Server;
 
 public class ServerGetAll
 {
 
-    private User[] User;
+    private User[] user;
 
     public ServerGetAll()
     {
-        User = new User[4];
+        user = new User[4];
 
-        User[0] = new User() { Id = 1, Name = "Yesenia", Age = 22 };
-        User[1] = new User() { Id = 2, Name = "Hanna", Age = 22 };
-        User[2] = new User() { Id = 3, Name = "Stanislau", Age = 25 };
-        User[3] = new User() { Id = 4, Name = "Germana", Age = 18 };
+        user[0] = new User() { Id = 1, Name = "Yesenia", Age = 22 };
+        user[1] = new User() { Id = 2, Name = "Hanna", Age = 22 };
+        user[2] = new User() { Id = 3, Name = "Stanislau", Age = 25 };
+        user[3] = new User() { Id = 4, Name = "Germana", Age = 18 };
     }
 
     public User[] Controller()
@@ -49,7 +51,7 @@ public class ServerGetAll
 
     private User[] Repository()
     {
-        return User;
+        return user;
     }
 
 }
