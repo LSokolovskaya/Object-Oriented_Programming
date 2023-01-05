@@ -14,7 +14,7 @@
 
 using UserOBD;
 
-namespace Post;
+namespace Put;
 
 public class ServerPut
 {
@@ -64,15 +64,13 @@ public class ServerPut
 
     public User Repository(int age, string name, int id)
     {
-        foreach (User user in _user)
+         for (int i = 0; i < user.Length; i++)
         {
-            if (user.Id != id)
+            if (user[i].Id == id)
             {
-                System.Console.WriteLine("Error");
-            }
-            else
-            {
-                user = new User() { Id = 6, Name = "Test", Age = age };
+                user[i].Name = name;
+                user[i].Age = age;
+                return user[i];
             }
         }
         return null;

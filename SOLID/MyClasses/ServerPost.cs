@@ -65,17 +65,15 @@ public class ServerPost
 
     public User Repository(int age, string name)
     {
-        foreach (User user in _user)
-        {
-            if (user.Name == name)
+        for (int i = 0; i < user.Length; i++)
+            foreach (User user in _user)
             {
-                System.Console.WriteLine("Этот пользователь уже существует"); 
+                if (user.Name == name)
+                {
+                    System.Console.WriteLine("Этот пользователь уже существует");
+                }
             }
-            else
-            {
-                user = new User() { Id= 6, Name = "Test", Age = age};
-            }
-        }
-        return null;
+        return user[Id - 1] = new User() { Id = 6, Name = "Test", Age = age };
+
     }
 }
