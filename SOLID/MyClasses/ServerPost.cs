@@ -33,7 +33,6 @@ public class ServerPost
         user[3] = new User() { Id = 4, Name = "Germana", Age = 18 };
     }
 
-
     public User Controller(int age, string name)
     {
         if (Middleware(age, name))
@@ -73,7 +72,6 @@ public class ServerPost
                     System.Console.WriteLine("Этот пользователь уже существует");
                 }
             }
-        return user[Id - 1] = new User() { Id = 6, Name = "Test", Age = age };
-
+        return user[4] = new User() { Id = 5, Name = "Test", Age = age };
     }
 }

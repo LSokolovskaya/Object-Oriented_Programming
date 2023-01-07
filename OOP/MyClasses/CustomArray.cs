@@ -1,5 +1,3 @@
-using System;
-
 namespace OOP.MyClasses // Note: actual namespace depends on the project name.
 {
     public class CustomArray
