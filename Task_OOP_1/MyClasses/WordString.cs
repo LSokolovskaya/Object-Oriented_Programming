@@ -1,6 +1,6 @@
-// Реализуйте класс WordString, который будет иметь следующие методы: метод
-// ReverseString(), переворачивающий строку, метод UpperFirst(), возвращающий
-// строку, где первая буква заглавная и метод UpperEvery(), который делает
+// +Реализуйте класс WordString, который будет иметь следующие методы: метод
+// +ReverseString(), переворачивающий строку, метод +UpperFirst(), возвращающий
+// строку, где первая буква заглавная и метод +UpperEvery(), который делает
 // заглавной первую букву каждого слова этой строки.
 namespace Task_OOP_1.MyClasses
 {
@@ -12,7 +12,7 @@ namespace Task_OOP_1.MyClasses
         {
             System.Console.WriteLine("введите строку");
             text = Convert.ToString(Console.ReadLine());
-            if(string.IsNullOrEmpty(text))
+            if (string.IsNullOrEmpty(text))
             {
                 System.Console.WriteLine("ERROR");
             }
@@ -28,20 +28,31 @@ namespace Task_OOP_1.MyClasses
         }
         public string UpperFirst()
         {
+            string[] array = text.Split(' ');
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] = array[i].ToLower();
+            }
+            text = string.Join(' ', array);
             text.Trim();
+            text.ToLower();
             text = char.ToUpper(text[0]) + text.Remove(0, 1);
             return text;
         }
         public string UpperEvery()
         {
-            text.Trim();
-
-            string[] array = text.Split(" ");
+            string[] array = text.Split(' ');
             for (int i = 0; i < array.Length; i++)
             {
-                array[i] = char.ToUpper(array[i][0]) + array[i].Remove(0, 1);
+                array[i] = array[i].ToLower();
+                string[] arrays = array[i].Split("");
+                for (int j = 0; j< arrays.Length; j++)
+                {
+                    arrays[0] = arrays[0].ToUpper();
+                }
+                array[i] = string.Join("", arrays);
             }
-            text = string.Join(" ", array);
+            text = string.Join(' ', array);
             return text;
         }
     }
