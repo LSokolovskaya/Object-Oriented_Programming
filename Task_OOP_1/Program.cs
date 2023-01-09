@@ -7,14 +7,14 @@
 // 8. Дополнить5задание.ДобавитьметодIsPhoneдляпроверкинаномертелефона.
 using Task_OOP_1.MyClasses;
 
-namespace Task_OOP_1  
+namespace Task_OOP_1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // Singer name = new Singer();
-            // System.Console.WriteLine(name.GetАutograph());
+            Singer name = new Singer();
+            System.Console.WriteLine(name.GetАutograph());
 
 
             WordString use = new WordString();
@@ -23,17 +23,17 @@ namespace Task_OOP_1
             System.Console.WriteLine(use.UpperEvery());
 
 
-            // MathCalculation number = new MathCalculation();
-            // number.Calculation();
+            MathCalculation number = new MathCalculation();
+            number.Calculation();
 
 
-            // Fibonacci numberFib = new Fibonacci();
-            // numberFib.MethodFib();
+            Fibonacci fibonacci = new Fibonacci();
+            fibonacci.Fib();
 
 
-            // Validator validator=new Validator(Console.ReadLine());
-            // System.Console.WriteLine(validator.CheckEmail());
-            // System.Console.WriteLine(validator.IsPhone());
+            Validator validator = new Validator(Console.ReadLine());
+            System.Console.WriteLine(validator.CheckEmail( validator));
+            System.Console.WriteLine(validator.IsPhone());
         }
     }
 }

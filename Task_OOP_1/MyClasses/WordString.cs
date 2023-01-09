@@ -41,19 +41,29 @@ namespace Task_OOP_1.MyClasses
         }
         public string UpperEvery()
         {
-            string[] array = text.Split(' ');
+            string result = "";
+            string[] array = text.Split(" ");
             for (int i = 0; i < array.Length; i++)
             {
-                array[i] = array[i].ToLower();
-                string[] arrays = array[i].Split("");
-                for (int j = 0; j< arrays.Length; j++)
-                {
-                    arrays[0] = arrays[0].ToUpper();
-                }
-                array[i] = string.Join("", arrays);
+                result += char.ToUpper(array[i][0]);
+                result += array[i].Remove(0, 1) + " ";
+
             }
-            text = string.Join(' ', array);
-            return text;
+            return result;
+
+            // string[] array = text.Split(' ');
+            // for (int i = 0; i < array.Length; i++)
+            // {
+            //     array[i] = array[i].ToLower();
+            //     string[] arrays = array[i].Split("");
+            //     for (int j = 0; j< arrays.Length; j++)
+            //     {
+            //         arrays[0] = arrays[0].ToUpper();
+            //     }
+            //     array[i] = string.Join("", arrays);
+            // }
+            // text = string.Join(' ', array);
+            // return text;
         }
     }
 }

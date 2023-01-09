@@ -4,19 +4,24 @@ namespace Task_OOP_1.MyClasses;
 
 public class Fibonacci
 {
-    public void MethodFib()
+    public void Fib()
     {
-        System.Console.WriteLine("Введите номер последнего элемента");
-        int number = Convert.ToInt32(Console.ReadLine());
-
-        if (number == 1)
+        int? number = int.Parse(Console.ReadLine());
+        System.Console.WriteLine(MethodFib(number));
+    }
+    public int MethodFib(int? number)
+    {
+        if (number >= 0)
         {
-            System.Console.WriteLine(0);
+            if (number == 1)
+            {
+                return 0;
+            }
+            if (number == 2 || number == 3)
+            {
+                return 1;
+            }
         }
-        if (number == 2 || number == 3)
-        {
-            System.Console.WriteLine(1); ;
-        }
-        System.Console.WriteLine((number - 1) + (number - 2));
+        return MethodFib(number - 1) + MethodFib(number - 2);
     }
 }

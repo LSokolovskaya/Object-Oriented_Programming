@@ -9,7 +9,6 @@ namespace Task_OOP_1.MyClasses;
 
 public class Validator
 {
-
     public string Email;
 
     public Validator(string email)
@@ -19,26 +18,20 @@ public class Validator
 
     public bool CheckEmail(string mail)
     {
-
         string[] arrays = mail.Split('@');
         return arrays.Length == 2 && arrays[1].Split('.').Length == 2 && !arrays[1].EndsWith('.');
-
     }
+
     public bool IsURL()
     {
-        // bool result = false;
         bool result = Email.Contains("http") ? true : false;
-        // if (Email.Contains("http"))
-        // {
-        //     result = true;
-        // }
         return result;
     }
 
     public bool IsDate()
     {
         bool result = false;
-        if (Email.Contains('/') || Email.Contains('-') || Email.Contains('.'))
+        if (Email.Contains("-") || Email.Contains("."))
         {
             result = true;
         }
@@ -48,11 +41,11 @@ public class Validator
     public bool IsPhone()
     {
         bool result = false;
-        if (Email.StartsWith("+375") || Email.StartsWith("80"))
+
+        if (Email.StartsWith("+37529") || Email.StartsWith("+37533") || Email.StartsWith("+37517"))
         {
             result = true;
         }
         return result;
     }
-
 }
