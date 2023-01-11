@@ -67,7 +67,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
             // System.Console.WriteLine(tiles.GetCountTiles(8.2));
             // System.Console.WriteLine(tiles.GetCountTiles(8.2) * tiles.Price);
 
-
             // Children children = new Children();
             // Console.WriteLine(children.GetChildren());
             // children.SetChildren("children", "Ivanov", 9);
