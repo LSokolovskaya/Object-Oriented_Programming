@@ -15,7 +15,6 @@
 // Id : 3, Name : "Stanislau", Age : 25,
 // Id : 4, Name : "German", Age : 18
 
-
 using UserOBD;
 namespace Server;
 
