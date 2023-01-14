@@ -76,13 +76,13 @@ namespace MyApp // Note: actual namespace depends on the project name.
             // matrix.SetData();
             // matrix.ReverseData();
 
-            Counter counter = new Counter(99);
-            counter.Incriment();
-            Console.WriteLine(counter);
-            counter.Incriment();
-            Console.WriteLine(counter);
-            counter.Incriment();
-            Console.WriteLine(counter);
+            // Counter counter = new Counter(99);
+            // counter.Incriment();
+            // Console.WriteLine(counter);
+            // counter.Incriment();
+            // Console.WriteLine(counter);
+            // counter.Incriment();
+            // Console.WriteLine(counter);
         }
     }
 }
