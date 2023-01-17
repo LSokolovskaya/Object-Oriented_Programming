@@ -1,0 +1,15 @@
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/bin/Debug/net6.0/OOP_Bank
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/bin/Debug/net6.0/OOP_Bank.deps.json
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/bin/Debug/net6.0/OOP_Bank.runtimeconfig.json
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/bin/Debug/net6.0/OOP_Bank.dll
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/bin/Debug/net6.0/OOP_Bank.pdb
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/obj/Debug/net6.0/OOP_Bank.csproj.AssemblyReference.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/obj/Debug/net6.0/OOP_Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/obj/Debug/net6.0/OOP_Bank.AssemblyInfoInputs.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/obj/Debug/net6.0/OOP_Bank.AssemblyInfo.cs
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/obj/Debug/net6.0/OOP_Bank.csproj.CoreCompileInputs.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/obj/Debug/net6.0/OOP_Bank.dll
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/obj/Debug/net6.0/refint/OOP_Bank.dll
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/obj/Debug/net6.0/OOP_Bank.pdb
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/obj/Debug/net6.0/OOP_Bank.genruntimeconfig.cache
+/Users/liubasokolovskaya/Desktop/Object-Oriented_Programming/OOP_Bank/obj/Debug/net6.0/ref/OOP_Bank.dll
