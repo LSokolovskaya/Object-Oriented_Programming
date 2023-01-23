@@ -1,4 +1,4 @@
-using Wallet;
+using MyClasses;
 
 namespace MyClasses;
 

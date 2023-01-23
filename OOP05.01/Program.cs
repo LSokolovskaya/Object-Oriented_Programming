@@ -2,6 +2,7 @@
 using MyClasses.Cars;
 using Figurs;
 using Incapsulation;
+using Abonent;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
@@ -39,7 +40,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             // System.Console.WriteLine(transport.Name);
             // transport.Moving();
 
-            // Car car = new Car("dfgh", 12);
+            Car car = new Car("dfgh", 12);
             // System.Console.WriteLine(car.Name);
             // car.Moving();
 
@@ -83,6 +84,12 @@ namespace MyApp // Note: actual namespace depends on the project name.
             // Console.WriteLine(counter);
             // counter.Incriment();
             // Console.WriteLine(counter);
+
+            // var test = new OuTClass<int, string > (2, "555");
+
+            var test = new OutClass<string, string>("5", "555");
+            Console.WriteLine(test.GetPropertyT());
+            // test.GetPropertyT().;
         }
     }
 }
