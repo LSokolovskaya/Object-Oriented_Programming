@@ -13,7 +13,7 @@ public class OutClass<TData> //YKey>
 
     public void Show()
     {
-        System.Console.WriteLine($"{PropertyT.ToString()} {PropertyK.ToString()} ");
+        System.Console.WriteLine($"{PropertyT.ToString()}"); //{PropertyK.ToString()} ");
     }
 
     public TData GetPropertyT() => PropertyT;
