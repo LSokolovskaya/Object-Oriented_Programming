@@ -2,7 +2,7 @@ namespace MyClasses;
 
 public class Wallet : IPayment
 {
-    public decimal Money { get; private set; }
+    public decimal Money { get; set; }
     public readonly WalletTypes Type;
     public Wallet(WalletTypes type, decimal money = 0)
     {
