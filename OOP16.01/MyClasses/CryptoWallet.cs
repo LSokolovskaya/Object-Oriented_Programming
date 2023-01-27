@@ -8,7 +8,7 @@ public class CryptoWallet : Wallet
     {
 
     }
-    
+
     public bool TryGetMoney(decimal sum)
     {
         if (Money >= sum)
@@ -18,6 +18,6 @@ public class CryptoWallet : Wallet
             return true;
         }
         return false;
-        
+
     }
 }
