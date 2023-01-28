@@ -30,7 +30,6 @@ namespace ServerID
             user[2] = new User() { Id = 3, Name = "Stanislau", Age = 25 };
             user[3] = new User() { Id = 4, Name = "Germana", Age = 18 };
         }
-
         public User Controller(int id)
         {
             if (Middleware(id))
@@ -43,12 +42,10 @@ namespace ServerID
                 return null;
             }
         }
-
         public bool Middleware(int id)
         {
             return id > 0;
         }
-
         public User Service(int id)
         {
             User user = Repository(id);
@@ -58,7 +55,6 @@ namespace ServerID
             }
             return user;
         }
-
         public User Repository(int id)
         {
             foreach (User user in _user)
