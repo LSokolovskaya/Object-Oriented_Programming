@@ -1,0 +1,17 @@
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/obj/Debug/net6.0/TaskJSON.csproj.AssemblyReference.cache
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/obj/Debug/net6.0/TaskJSON.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/obj/Debug/net6.0/TaskJSON.AssemblyInfoInputs.cache
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/obj/Debug/net6.0/TaskJSON.AssemblyInfo.cs
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/obj/Debug/net6.0/TaskJSON.csproj.CoreCompileInputs.cache
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/bin/Debug/net6.0/TaskJSON
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/bin/Debug/net6.0/TaskJSON.deps.json
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/bin/Debug/net6.0/TaskJSON.runtimeconfig.json
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/bin/Debug/net6.0/TaskJSON.dll
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/bin/Debug/net6.0/TaskJSON.pdb
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/obj/Debug/net6.0/TaskJSON.csproj.CopyComplete
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/obj/Debug/net6.0/TaskJSON.dll
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/obj/Debug/net6.0/refint/TaskJSON.dll
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/obj/Debug/net6.0/TaskJSON.pdb
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/obj/Debug/net6.0/TaskJSON.genruntimeconfig.cache
+/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/obj/Debug/net6.0/ref/TaskJSON.dll

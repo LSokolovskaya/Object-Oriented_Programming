@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y5XB2EjQrt71SnPHD6IJk4gbLpN4QXKtrNiFkCS78PO6QzQKWYmCbKVSpHOE80B1OGsZb2HPYW3mjy4vjt0RPA==",
+  "success": true,
+  "projectFilePath": "/Users/liubasokolovskaya/Desktop/JSon/TaskJSON/TaskJSON.csproj",
+  "expectedPackageFiles": [
+    "/Users/liubasokolovskaya/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
