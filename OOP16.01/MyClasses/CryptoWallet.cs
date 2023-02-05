@@ -18,6 +18,5 @@ public class CryptoWallet : Wallet
             return true;
         }
         return false;
-
     }
 }
