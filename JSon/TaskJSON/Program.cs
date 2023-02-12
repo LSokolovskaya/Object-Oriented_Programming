@@ -34,6 +34,7 @@ internal class Program
         {
             PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
         };
+
         string json = "{\"Code\":177,\"Name\":\"dollar\",\"Symbol\":\"$\"}";
         try
         {
