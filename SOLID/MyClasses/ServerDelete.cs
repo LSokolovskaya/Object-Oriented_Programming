@@ -18,7 +18,6 @@ namespace Delete;
 
 public class ServerDelete
 {
-
     private User[] user;
     private readonly User[] _user;
 
@@ -31,7 +30,6 @@ public class ServerDelete
         user[2] = new User() { Id = 3, Name = "Stanislau", Age = 25 };
         user[3] = new User() { Id = 4, Name = "Germana", Age = 18 };
     }
-
 
     public User Controller(int id)
     {

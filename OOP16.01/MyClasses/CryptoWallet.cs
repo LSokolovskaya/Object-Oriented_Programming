@@ -6,6 +6,7 @@ public class CryptoWallet : Wallet
 {
     public CryptoWallet(decimal money) : base(WalletTypes.Leather, money)
     {
+        
     }
 
     public bool TryGetMoney(decimal sum)

@@ -8,7 +8,6 @@ namespace NewCalculator;
 
 public class Calculator
 {
-
     public int DoPlus(params int[] array)
     {
         int result = 0;
