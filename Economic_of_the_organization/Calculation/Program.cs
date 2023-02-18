@@ -8,7 +8,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
             Economic economic = new Economic();
 
-
             economic.Dk = 108; //количество календарных дней в году
             economic.Dvih = 110; //выходные и праздничные
             economic.Tcm = 8; //продолжительность смены
@@ -18,7 +17,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
             economic.S = 1; //число смен
             economic.ap = 0.051; //планируемый процент потерь времени, связанный с невыходом на работу
             economic.Tob = 71; //трудоемкость наладочных работ
-
 
             economic.Proizvodstvennie(); //calculation
         }
