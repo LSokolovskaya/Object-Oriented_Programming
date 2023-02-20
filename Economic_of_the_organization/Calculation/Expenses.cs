@@ -25,7 +25,6 @@ namespace Cost //Расчет издержек производства
             System.Console.WriteLine($"{ZPosnnal} ");
             double ZPiosn = Ri * Schi * Fdr * Kzagr;
             System.Console.WriteLine($"{ZPiosn} ");
-
         }
     }
 }
