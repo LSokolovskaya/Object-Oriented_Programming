@@ -10,6 +10,7 @@ namespace Expenses //Расчет стоимости основных произ
         public double avsp;
         public double ezd;
         public double Kzagr;
+        
         // public void sd
     }
 }
