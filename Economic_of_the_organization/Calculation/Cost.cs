@@ -12,5 +12,6 @@ namespace Expenses //Расчет стоимости основных произ
         public double Kzagr;
         
         // public void sd
+        
     }
 }
